@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "altJSV/android_kernel_wileyfox_porridge",
+    "target_path": "kernel/mt6735",
+	"branch": "master"
+  }
+]
